@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Hi!%20I'm%20Dhanya%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Systems%20Student%20%7C%20Coimbatore%2C%20India&descAlignY=58&descSize=16" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;Problem+Solver+%7C+DSA+Enthusiast;Open-Source+Community+Builder;Turning+ideas+into+working+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi!+I+am+Dhanya+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 **Software Development** &nbsp;|&nbsp; **Full Stack** &nbsp;|&nbsp; **Problem Solving** &nbsp;|&nbsp; **Open Source**
+
+</div>
 
 <p>
   <a href="https://dhanya.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
