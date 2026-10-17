@@ -13,11 +13,9 @@
 ---
 
 ## 🚀 About Me
-
-I'm an Integrated M.Sc. Software Systems student, passionate about building software that solves practical problems. My interests span software engineering, machine learning and open-source technologies, where I enjoy turning ideas into reliable and impactful solutions. I've worked on projects ranging from real-time route optimization platforms to AI-powered applications that encourage sustainability. Beyond development, I actively contribute to technical communities as Secretary of **FOSS-CIT**, organizing workshops, technical sessions and initiatives that encourage collaborative learning and open-source participation.
-
-- 🔭 Currently working on: **CacheMind**, a semantic cache layer for internal LLM assistants
-- 🌱 Currently learning: Machine Learning and Automated testing
+- 🎓 Integrated MSc Software Systems Student
+- 🔭 Currently working on the project **CacheMind**, a semantic cache layer for internal LLM assistants
+- 🌱 Currently learning Machine Learning and Automated testing
 - 🤝 Looking to contribute to **Open-source** projects
 
 ---
@@ -33,7 +31,7 @@ I'm an Integrated M.Sc. Software Systems student, passionate about building soft
 <img src="https://skillicons.dev/icons?i=react,angular,html,css,js" alt="frontend"/>
 
 **Backend**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,socketio,prisma" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma" alt="backend"/>
 
 **Databases**<br>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="databases"/>
