@@ -10,31 +10,21 @@
 
 </div>
 
-<p>
-  <a href="https://dhanya.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/dhanyashree07/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/Dhanya_Shree_12/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="mailto:dhanyashreemohanrajj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=M-DhanyaShree&label=Profile%20Views&color=1f6feb&style=flat-square" alt="views"/>
-
-</div>
-
 ---
 
-## About Me
+## 🚀 About Me
 
-- I'm an Integrated M.Sc. Software Systems student at Coimbatore Institute of Technology, passionate about building software that solves practical problems. My interests span software engineering, machine learning and open-source technologies, where I enjoy turning ideas into reliable and impactful solutions. I've worked on projects ranging from real-time route optimization platforms to AI-powered applications that encourage sustainability. Beyond development, I actively contribute to technical communities as Secretary of FOSS-CIT, organizing workshops, technical sessions and initiatives that encourage collaborative learning and open-source participation.
+I'm an Integrated M.Sc. Software Systems student, passionate about building software that solves practical problems. My interests span software engineering, machine learning and open-source technologies, where I enjoy turning ideas into reliable and impactful solutions. I've worked on projects ranging from real-time route optimization platforms to AI-powered applications that encourage sustainability. Beyond development, I actively contribute to technical communities as Secretary of **FOSS-CIT**, organizing workshops, technical sessions and initiatives that encourage collaborative learning and open-source participation.
+
 - 🔭 Currently working on: **CacheMind**, a semantic cache layer for internal LLM assistants
 - 🌱 Currently learning: Machine Learning and Automated testing
 - 🤝 Looking to contribute to **Open-source** projects
 
 ---
 
-## Technical Skills
+## 🛠 Technical Skills
 
-<div align="center">
+<div>
 
 **Languages**<br>
 <img src="https://skillicons.dev/icons?i=cpp,c,py" alt="languages"/>
@@ -57,26 +47,7 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=M-DhanyaShree&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-DhanyaShree&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=M-DhanyaShree&theme=tokyonight&hide_border=true" alt="streak"/>
-
-</div>
-
-### LeetCode
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/Dhanya_Shree_12?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats"/>
-</div>
-
----
-
-## Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
 
