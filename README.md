@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:d946ef,100:ec4899&height=200&section=header" width="100%" alt="header"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe4e6,50:f43f5e,100:be123c&height=200&section=header" width="100%" alt="header"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi!+I+am+Dhanya+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=f43f5e&center=true&vCenter=true&width=640&lines=Hi!+I+am+Dhanya+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 **Software Development** &nbsp;|&nbsp; **Full Stack** &nbsp;|&nbsp; **Problem Solving** &nbsp;|&nbsp; **Open Source**
@@ -56,6 +55,6 @@
 
 *"One commit closer to the impossible!"* ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:d946ef,100:0d1117&height=110&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:be123c,50:f43f5e,100:ffe4e6&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
